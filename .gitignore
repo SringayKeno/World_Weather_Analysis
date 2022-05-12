@@ -76,6 +76,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+API_practice.ipynb
+random_numbers.ipynb
 
 # IPython
 profile_default/
